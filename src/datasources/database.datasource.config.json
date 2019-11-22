@@ -1,0 +1,10 @@
+{
+  "name": "database",
+  "connector": "mssql",
+  "url": "",
+  "host": "192.168.4.28",
+  "port": 1433,
+  "user": "sa",
+  "password": "RAC123hi",
+  "database": "Audit"
+}
